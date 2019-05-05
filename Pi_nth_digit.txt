@@ -1,0 +1,10 @@
+Hi!  This is a program which deals printing Pi with Nth decimal digit implemented using Ramanujan series.
+
+Learning from this program:
+
+-	Learnt Ramanujan series for Pi, Also Checked out Chudnovsky series for the same
+-	Decimal module and its methods
+-	Math module and its methods
+-	This program works well till N = 10000 after that it is taking so much time to display output.
+-	getcontext().prec max is set upto 425000000
+-	Checkout python documentation of decimal module for more details
